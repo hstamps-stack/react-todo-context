@@ -1,6 +1,4 @@
 const InputComponent = () =>{
-
-
     return(
     <div className="row">
             <form className="mx-auto my-5 col-6"
